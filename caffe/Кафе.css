@@ -1,0 +1,11 @@
+img{
+width: 350;
+}
+   div{
+       background-color: #e6b980;
+       text-align: center;
+       margin-left: 20%;
+       margin-right: 20%;
+       border: 2px dotted black;
+       font-family: sans-serif;
+   }
